@@ -1,0 +1,55 @@
+h3{
+color:hsl(14, 45%, 36%);
+font-family: 'youngSerif';
+}
+h1{
+    font-family: 'youngSerif';
+}
+body{
+background-color:burlywood;
+margin: 80px;
+font-size: 16px;
+}
+h2{
+    color:hsl(14, 45%, 36%);
+}
+div{
+    margin: auto;
+    background-color:hsl(0, 0%, 100%);
+    width: 500px; 
+    padding: 10px;
+    border-radius: 10px;
+}
+image{
+    height: 5px;
+}
+img{
+height: 240px;
+width: 490px;
+border-radius: 5px;
+margin-left: 5px;
+}
+
+
+
+
+.Preparation{
+    background-color:hsl(30, 18%, 87%);
+    width: 450px;
+    border-radius: 5px;
+    margin: 10px;
+}
+table{
+    border-collapse: collapse;
+    padding: 20px;
+}
+@font-face{
+    font-family:'YoungSerif';
+    src: url(assets/fonts/young-serif/OFL.txt),
+    url(assets/fonts/young-serif/YoungSerif-Regular.ttf)
+}
+tr td{
+    padding: 20px;
+    border-bottom: 1px solid rgb(8, 8,8);
+
+}
